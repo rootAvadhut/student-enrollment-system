@@ -1,2 +1,0 @@
-# student-enrollment-system
-
